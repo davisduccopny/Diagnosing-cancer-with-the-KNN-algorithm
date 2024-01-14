@@ -29,13 +29,13 @@ Dự án này tiến hành phân tích tập dữ liệu ung thư vú và sử d
 1. Clone dự án về máy local của bạn (Clone the project to your local machine:):
 
     ```bash
-    git clone https://github.com/davisduccopny/Stock-Prediction-with-Python-project.git
+    git clone https://github.com/davisduccopny/Diagnosing-cancer-with-the-KNN-algorithm.git
     ```
 
 2. Di chuyển vào thư mục dự án (Navigate to the project directory:) :
 
     ```bash
-    cd Stock-Prediction-with-Python-project
+    cd Diagnosing-cancer-with-the-KNN-algorithm
     ```
 
 3. Tạo môi trường ảo (nếu cần) (Create a virtual environment (if needed)):
