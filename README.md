@@ -1,8 +1,8 @@
 # Diagnosing cancer with the KNN algorithm
 
-![Project Image](./asset/image/intro-readme.jpg)
+
 <div align="center">
-    
+![Project Image](./asset/image/intro-readme.jpg)  
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
