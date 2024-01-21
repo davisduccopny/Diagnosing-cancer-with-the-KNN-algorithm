@@ -108,11 +108,11 @@ Dự án này được phân phối dưới giấy phép [MIT License](LICENSE).
 ---
 Happy coding!
 
-[contributors-shield]: https://img.shields.io/github/contributors/davisduccopny/Stock-Prediction-with-Python-project?style=for-the-badge&label=Contributors 
-[contributors-url]:https://github.com/davisduccopny/Stock-Prediction-with-Python-project/graphs/contributors 
-[forks-shield]:https://img.shields.io/github/forks/davisduccopny/Stock-Prediction-with-Python-project?label=Folks&style=for-the-badge
-[forks-url]: https://github.com/davisduccopny/Stock-Prediction-with-Python-project/forks
-[stars-shield]: https://img.shields.io/github/stars/davisduccopny/Stock-Prediction-with-Python-project?style=for-the-badge&label=Stars
-[stars-url]: https://github.com/davisduccopny/Stock-Prediction-with-Python-project/stargazers
-[issues-shield]: https://img.shields.io/github/issues/davisduccopny/Stock-Prediction-with-Python-project?style=for-the-badge&label=Issues
-[issues-url]: https://github.com/davisduccopny/Stock-Prediction-with-Python-project/issues
+[contributors-shield]: https://img.shields.io/github/contributors/davisduccopny/Diagnosing-cancer-with-the-KNN-algorithm?style=for-the-badge&label=Contributors 
+[contributors-url]:https://github.com/davisduccopny/Diagnosing-cancer-with-the-KNN-algorithm/graphs/contributors 
+[forks-shield]:https://img.shields.io/github/forks/davisduccopny/Diagnosing-cancer-with-the-KNN-algorithm?label=Folks&style=for-the-badge
+[forks-url]: https://github.com/davisduccopny/Diagnosing-cancer-with-the-KNN-algorithm/forks
+[stars-shield]: https://img.shields.io/github/stars/davisduccopny/Diagnosing-cancer-with-the-KNN-algorithm?style=for-the-badge&label=Stars
+[stars-url]: https://github.com/davisduccopny/Diagnosing-cancer-with-the-KNN-algorithm/stargazers
+[issues-shield]: https://img.shields.io/github/issues/davisduccopny/Diagnosing-cancer-with-the-KNN-algorithm?style=for-the-badge&label=Issues
+[issues-url]: https://github.com/davisduccopny/Diagnosing-cancer-with-the-KNN-algorithm/issues
