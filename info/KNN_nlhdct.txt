@@ -1,0 +1,1 @@
+Nguyên lý hoạt động của thuật toán K-Nearest Neighbors (KNN) là dựa trên giả định rằng các điểm dữ liệu có tính chất tương đồng với nhau thường nằm gần nhau trong không gian đặc trưng. Khi có một điểm dữ liệu mới, KNN sẽ tìm ra các điểm dữ liệu gần nó nhất trong không gian  đặc trưng, và sử dụng nhãn của các điểm dữ liệu này để dự đoán nhãn của điểm dữ liệu mới

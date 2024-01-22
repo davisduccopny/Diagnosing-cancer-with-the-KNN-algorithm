@@ -1,0 +1,8 @@
+Về mặt lý thuyết, bài toán mà thuật toán K-Nearest Neighbors giải quyết là bài toán phân loại và gợi ý dựa trên các đặc trưng của dữ liệu. KNN được sử dụng để xác định lớp hoặc nhãn của một điểm dữ liệu mới dựa trên các điểm dữ liệu đã biết trước trong tập huấn luyện. KNN thuộc vào lớp các thuật toán học máy không giám sát (unsupervised learning) và phụ thuộc vào việc tính toán khoảng cách giữa các điểm dữ liệu. Thuật toán này dựa trên giả định rằng các điểm dữ liệu cùng lớp sẽ có tính chất tương tự và nằm gần nhau trong không gian đặc trưng.
+Về mặt thực tế có những ứng dụng:
+- Phân loại văn bản
+- Nhận dạng khuôn mặt
+- Hệ thống gợi ý
+- Phát hiện gian lận tín dụng
+- Phân loại sản phẩm
+- Hỗ trợ quyết định y tế
