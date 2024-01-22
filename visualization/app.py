@@ -136,7 +136,6 @@ class TRAIN_MODELS:
         self.option_distance  = 'euclidean'
         
     def train_test_split(self):
-        self.df.reset_index(drop=True)
         X = self.df.drop('diagnosis', axis=1)
         y = self.df['diagnosis']
         y = (y=='M').astype('int')
@@ -233,7 +232,12 @@ def upload_data():
     else:
         st.warning(f"File '{full_file_path}' không tồn tại.")
         return None
+
 data = upload_data()
+
+if data is not None:  # Kiểm tra nếu data không phải là None
+    data = data.reset_index(drop=True)
+    data.drop(['Unnamed: 32','id'], axis=1, inplace=True) 
 
 def embed_image( file_path,width,height):
     current_dir = os.path.dirname(os.path.abspath(__file__))
