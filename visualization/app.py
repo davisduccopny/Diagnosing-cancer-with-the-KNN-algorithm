@@ -133,8 +133,10 @@ class TRAIN_MODELS:
         self.df = df
         self.slideroption = 5
         self.slideroption_p = 2.5
+        self.option_distance  = 'euclidean'
         
     def train_test_split(self):
+        self.df.reset_index(drop=True)
         X = self.df.drop('diagnosis', axis=1)
         y = self.df['diagnosis']
         y = (y=='M').astype('int')
@@ -179,7 +181,7 @@ class TRAIN_MODELS:
             self.option_distance =  st.radio('Chọn độ đo', [
                                  'euclidean', 'manhattan', 'minkowski'])
         with col2:
-            self.slideroption = st.slider('Chọn giá trị k', 0, 30, 1)
+            self.slideroption = st.number_input('Chọn giá trị k',value=self.slideroption)
             if self.option_distance =='minkowski':
                 self.slideroption_p = st.number_input('Chọn giá trị p', value=self.slideroption_p)
         preds,y_test = self.run_model_option(metric=self.option_distance,k=self.slideroption,p=self.slideroption_p)
