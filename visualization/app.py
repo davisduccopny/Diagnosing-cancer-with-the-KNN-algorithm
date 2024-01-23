@@ -331,6 +331,8 @@ def main(selected):
             st.code("email: 2156210100@hcmussh.edu.vn")
         st.info("Created and designed by [Team Data Science - QuocChienDuc](https://github.com/davisduccopny/Diagnosing-cancer-with-the-KNN-algorithm)") 
         st.info("Instructors: Nguyễn Tấn Công")
+        st.markdown("<h2 style='text-align: center;'>Một chút meme cho đỡ căng thẳng</h2>", unsafe_allow_html=True)
+        embed_image('../asset/image/meme_ntcong.jpg',width=100,height='auto')
 if __name__ == '__main__':
     selected = streamlit_menu()
     main(selected)
