@@ -1,5 +1,5 @@
 # Diagnosing cancer with the KNN algorithm
-
+#### Website demo: https://diagnosing-cancer-with-the-knn-algorithm-quocchienduc.streamlit.app/
 
 <div align="center">
 
@@ -77,12 +77,13 @@ Dự án này tiến hành phân tích tập dữ liệu ung thư vú và sử d
 
 ## Cấu Trúc Thư Mục (Directory Structure)
 
-- `dataset/`: Chứa dữ liệu lịch sử về giá cổ phiếu (Contains historical stock price data).
-- `train_folder/`: Chứa các notebook Jupyter cho phân tích và dự đoán ( Contains Jupyter notebooks for analysis and prediction).
+- `data/`: Chứa dữ liệu của dự án.
+- `model/`: Chứa notebook phân tích chính.
 - `asset/image/`: Lưu trữ ảnh của dự án (Stores project images)
-- `info_stock/`: Lưu trữ thông tin cổ phiếu (Stores stock information).
+- `info/`: Lưu trữ thông tin giới thiệu (Stores information).
 - `introduction`: Bản thảo word của dự án (Word draft of the project).
-- `app_test.py`: Tệp chứa giao diện demo thuật toán (The file contains the algorithm demo interface)
+- `visualization/app.py`: Tệp chứa giao diện demo thuật toán (The file contains the algorithm demo interface)
+- `Report/`: Lưu trữ thông tin báo cáo chi tiết.
 
 ## Đóng Góp (Contribution)
 
