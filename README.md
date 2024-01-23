@@ -83,6 +83,7 @@ Dự án này tiến hành phân tích tập dữ liệu ung thư vú và sử d
 - `info/`: Lưu trữ thông tin giới thiệu (Stores information).
 - `introduction`: Bản thảo word của dự án (Word draft of the project).
 - `visualization/app.py`: Tệp chứa giao diện demo thuật toán (The file contains the algorithm demo interface)
+- `Report/`: Lưu trữ thông tin báo cáo chi tiết.
 
 ## Đóng Góp (Contribution)
 
