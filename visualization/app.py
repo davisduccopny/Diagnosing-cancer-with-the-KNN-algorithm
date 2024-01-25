@@ -203,7 +203,7 @@ def run():
 
     st.sidebar.markdown("""
         <div style="display: flex; justify-content: center;margin-bottom:0">
-            <img src='https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/242489593_405101811147345_1733417058228090429_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=173fa1&_nc_eui2=AeFuaEaf18BbprUuxRa5lYL8wUu8nFmqFBHBS7ycWaoUETQ21uzivfHWo-qW4uimAiH9d-O-sZIVXWkJaRHH_YCo&_nc_ohc=WJ6z-ROQw4MAX_p73ht&_nc_ht=scontent.fdad3-5.fna&oh=00_AfDtQxN0MnTcpVsJ6dt-qeO9js0zxW0LQLoNzkQ8k19NwA&oe=65AFF6AE' alt='Ten_Hinh_Anh' width='60%' style='border-radius:50%;margin-bottom:12%;'>
+            <img src='https://avatars.githubusercontent.com/u/129922030?v=4' alt='Ten_Hinh_Anh' width='60%' style='border-radius:50%;margin-bottom:12%;'>
         </div>
         """, unsafe_allow_html=True)
     st.sidebar.info('❤🌤️Welcome to project🌤️❤️')
